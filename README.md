@@ -5,7 +5,7 @@ SQL queries? Check them out: [project_sql folder](/project_sql/)
 
 Data taken from [SQL Course](https://www.youtube.com/watch?v=7mz73uXD9DA)
 
-### The question i wnated to answe through my SQL queries were:
+### The question i wanted to answer through my SQL queries were:
 
 1. What are the top-paying data analyst jobs?
 2. What skills require for these top paying jobs?
